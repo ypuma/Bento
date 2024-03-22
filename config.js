@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.riseup.com/',
+			link: 'https://mail.riseup.net/',
 		},
 		{
 			id: '3',
