@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Luan',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
